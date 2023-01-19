@@ -70,10 +70,19 @@
 .hide {
   display: none !important;
 }
-
+.name{
+  padding-top: 5px;
+  font-size: 20px;
+}
 .sty {
-  text-align: center;
-  text-shadow: 0 0 10px whitesmoke;
+  display: inline-flex;
+ 
+  
+}
+.new2 > img {
+  margin-left: auto;
+  margin-right: auto;
+height: 40px;
 }
 
 #msgs .msg a {
@@ -246,4 +255,3 @@
     left: 10px;
     text-align: center;
   }
-}
